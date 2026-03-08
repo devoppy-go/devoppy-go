@@ -1,56 +1,71 @@
-# Hi there, I'm Arkesh! 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=250&section=header&text=Arkesh&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20UI/UX%20Designer&descAlignY=75&descAlign=60" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Final+Year+Computer+Engineering;Crafting+Modern+React+Interfaces;Architecting+Python+Backends;Building+Tech+Startups+%26+Logistics;Creating+Tech+Content+%26+Shorts" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Final+Year+B.Tech+Student;Full-Stack+Developer;UI%2FUX+Enthusiast;Building+Tech+Startups" alt="Typing SVG" />
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/></a>
+  <a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="YOUR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
 
-## 👨‍💻 About Me
-* 🎓 Final year B.Tech student in Computer Engineering.
-* 🚀 Passionate about full-stack development, seamless UI/UX design, and building scalable tech startups.
-* 💻 Currently building projects utilizing React, Python, and strategic business automation.
-* 🎯 Always looking to solve real-world problems through clean code and efficient system design.
-* 📫 How to reach me: **[Your Email Address]** or **[Your LinkedIn URL]**
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+### 🚀 The Journey & Vision
+> Bridging the gap between beautiful UI/UX and robust system architecture. 
 
----
+I am focused on solving real-world problems through clean code and strategic business models. Whether I'm designing interactive dashboards, exploring drone logistics networks, or sharing insights through YouTube Shorts, I build with scale and user experience in mind. 
 
-## 🏆 Coding Platforms Progress
-<p align="left">
-  <a href="YOUR_LEETCODE_PROFILE_LINK">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+### 💻 Arsenal & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,python,js,html,css,figma,tailwind,nodejs,git,github,vercel,vscode&perline=6" alt="My Skills" />
   </a>
-  <a href="YOUR_HACKERRANK_PROFILE_LINK">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
-  <a href="YOUR_CODEFORCES_PROFILE_LINK">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="YOUR_GEEKSFORGEEKS_PROFILE_LINK">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
+</div>
 
-*(Click the badges above to view my live progress and problem-solving stats!)*
+<br/>
 
----
+### 📊 Analytics & Impact
+<table align="center" style="width: 100%; border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
-</p>
+### 🐍 Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00FF9C&style=flat-square" alt="Visitor Counter" />
+</div>
